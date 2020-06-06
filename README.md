@@ -2,7 +2,7 @@
 ## Jackson Shaw
 The Radio Garden is an interactive web map that displays the locations of radio stations all around the globe and allows users to tune in to radio stations through their browser, from anywhere in the world, based on their broadcast city.
 
-![Radio garden map of the US](/img/Map_radio.png)
+![Radio garden map of the US](./img/Map_radio.png)
 
 The map was first developed in 2016 by Studio Puckey & Moniker, a company based in the Netherlands, and was commissioned as an exhibition project by the Netherlands Institute for Sound and Vision in the context of the research project Transnational Radio Encounters. Since the exhibition, Johnathon Puckey (the man behind Studio Puckey & Moniker) has since made Radio Garden an independent company and has been "tending to the garden", as he puts it, ever since. The map is intended for anyone to use, but has recently redesigned its entire display and experience to cater to mobile users, as its most popular version is in the form of mobile applications.
 
@@ -32,4 +32,4 @@ In terms of map components, the map is displayed on a 3D globe model using satel
 
 This map is an interesting hybrid of simple and complex design. On the one hand, as it is a free web service that is designed to be usable by anyone, it is very easy to use and understand; but on the other, its use of satellite imagery makes it seem visually cluttered. Clearly, this is intended to make the globe model more genuine; pasting a street map around a globe would not work in this context. But, the satellite imagery can tend to obscure the green points representing cities with fewer radio stations, as they do not visually contrast with some of the terrain displayed as part of the basemap.
 
-On the whole, the application is easy to use, fun to play around with, and provides a useful service. 
+On the whole, the application is easy to use, fun to play around with, and provides a useful service.
